@@ -25,6 +25,8 @@ if ($db->connect_errno) {
 
 }
 
+// making a change to check tracking
+
 //php has to use external sql to store persistent data
 
 // need to do some stuff at command line first
