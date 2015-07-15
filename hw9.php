@@ -10,6 +10,7 @@ DELETE SQL statement and an <input type="hidden"> in each row of the list contai
 row's ID.
  */
 
+// making a change here to verify tracking with git
 
 // put a form in each row with the delete button
 
